@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Cats Galore</title>
+    <link rel="stylesheet" 
+    href="Styles.css" />
+</head>
+<body>
+    <header>
+        <section>
+            <h1>Cats Website</h1>
+        <nav style="color: blue; background: yellow;">
+            <a href="#footer"> <p>Footer</p> </a>
+            <a href="https://www.google.com" target="_blank"> 
+                <p>Google</p>
+            </a>
+        </nav>
+            
+        </section>
+        
+    </header>
+    <main>
+        <h2>Everything you should know about Cats!</h2>
+            
+        <p
+        class="paragraph header">Cats are my favourate animals on the face of the earth and so I am creating this website to commemorate their brilliance.</p>
+        <section>
+            <div
+             id="first-div">
+                <img style="width: 100%;" src="https://st3.depositphotos.com/2128411/16263/i/1600/depositphotos_162632052-stock-photo-funny-fat-cat-sitting-in.jpg" alt="cat-profile-img" /> 
+        
+                <a href="https://www.google.com/imgres?q=cat&imgurl=https%3A%2F%2Fi.natgeofe.com%2Fn%2F548467d8-c5f1-4551-9f58-6817a8d2c45e%2FNationalGeographic_2572187_2x1.jpg&imgrefurl=https%3A%2F%2Fwww.nationalgeographic.com%2Fanimals%2Fmammals%2Ffacts%2Fdomestic-cat&docid=K6Qd9XWnQFQCoM&tbnid=PfujBs9FDkBe-M&vet=12ahUKEwiAgMSTl62KAxVvSUEAHTxTDc0QM3oECHcQAA..i&w=3072&h=1536&hcb=2&ved=2ahUKEwiAgMSTl62KAxVvSUEAHTxTDc0QM3oECHcQAA" target="_blank">
+                <p>Click here for cat images</p>
+                 </a>
+            </div>
+            
+             <form>
+                <label>
+                    <h2> <p>Cat Breed</p> </h2>
+                         <input style="width: 240px;" placeholder="Enter the name of your favourable cat breed" />
+                </label>
+             
+                <button>
+                    <p>Submit</p>
+                </button>
+             </form>
+            
+            </section>
+    
+    </main>
+    <footer id="footer">
+Copyright 2024
+    </footer>
+    
+    
+    
+</body>
+</html>
+
